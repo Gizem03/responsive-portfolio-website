@@ -29,11 +29,23 @@ ul {
 }
 
 .hero-banner {
-  background-color: cadetblue;
+  height: 250px;
+
+  background-image: url("../images/02-hero-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: relative;
 }
 
 .hero-banner div {
   display: flex;
+  background-color: rgba(255, 255, 255, 0.7);
+
+  position: absolute;
+  bottom: 0;
+  right: 100px;
 }
 
 h1,
@@ -62,6 +74,17 @@ p {
 
 .page-section-content {
   flex-basis: 75%;
+  display: flex;
+}
+
+.page-section-content .avatar {
+  background-image: url("../images/gizem.png");
+  width: 100px;
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
 }
 
 #work-grid {
