@@ -25,6 +25,7 @@ header {
 ul {
   display: flex;
   gap: 20px;
+  list-style: none;
 }
 
 .hero-banner {
@@ -59,7 +60,7 @@ p {
   border-right: 4px solid lightgrey;
 }
 
-.page-section div {
+.page-section-content {
   flex-basis: 75%;
 }
 
@@ -87,4 +88,9 @@ p {
 .contact-menu {
   display: flex;
   gap: 20px;
+}
+
+.contact-menu div {
+  border-bottom: 4px solid grey;
+  padding: 0;
 }
