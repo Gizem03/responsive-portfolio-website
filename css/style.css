@@ -27,6 +27,10 @@ ul {
   gap: 20px;
 }
 
+.hero-banner {
+  background-color: cadetblue;
+}
+
 .hero-banner div {
   display: flex;
 }
@@ -44,16 +48,19 @@ p {
   margin: 0;
 }
 
-#about {
+.page-section {
   display: flex;
 }
 
-#work {
-  display: flex;
+.page-section h2 {
+  flex-basis: 25%;
+  text-align: right;
+  font-size: 32px;
+  border-right: 4px solid lightgrey;
 }
 
-#contact {
-  display: flex;
+.page-section div {
+  flex-basis: 75%;
 }
 
 .contact-menu {
