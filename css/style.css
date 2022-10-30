@@ -43,6 +43,15 @@ header ul > li {
   padding: 0;
 }
 
+header ul > li > a {
+  text-decoration: none;
+  color: unset;
+}
+
+header ul > li > a:visited {
+  color: unset;
+}
+
 .hero-banner {
   height: 250px;
 
