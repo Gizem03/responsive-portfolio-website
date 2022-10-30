@@ -20,12 +20,27 @@ header {
   justify-content: space-between;
   background-color: coral;
   align-items: center;
+  padding: 0;
 }
 
-ul {
+header > h1 {
+  padding: 0 20px;
+}
+
+header > nav {
+  padding: 0 20px;
+}
+
+header ul {
   display: flex;
   gap: 20px;
   list-style: none;
+  padding: 0;
+}
+
+header ul > li {
+  border-bottom: 4px solid grey;
+  padding: 0;
 }
 
 .hero-banner {
