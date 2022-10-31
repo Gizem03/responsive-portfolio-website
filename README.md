@@ -20,7 +20,7 @@ A simple responsive portfolio website with five sections such as Navigation, Her
 
 ## Usage
 
-The site is deployed here: https://gizem03.github.io/horiseon-home-page-refactor/
+The site is deployed here: https://gizem03.github.io/responsive-portfolio-website/.
 
 When you deploy or run the application you will see the following site on your browser.
 
