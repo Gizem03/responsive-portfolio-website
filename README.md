@@ -10,7 +10,7 @@
 
 ## Description
 
-A simple responsive portfolio website with five sections such as Navigation, Hero, About, Work, and Contact sections. Media queries was used to create a mobile responsive portfolio. This is my first portfolio project.
+A simple responsive portfolio website with five sections such as Navigation, Hero, About, Work, and Contact sections. Media queries were used to create a mobile responsive portfolio. This is my first portfolio project.
 
 ## Installation
 
