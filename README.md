@@ -24,7 +24,11 @@ The site is deployed here: https://gizem03.github.io/responsive-portfolio-websit
 
 When you deploy or run the application you will see the following site on your browser.
 
-![screenshot](assets/images/homepage.png)
+Desktop:
+![screenshot](images/portfolio-fullpage-screenshot.png)
+
+Mobile:
+![screenshot](images/portfolio-mobilepage-screenshot.png)
 
 ## Credits
 
