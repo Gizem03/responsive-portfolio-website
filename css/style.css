@@ -183,38 +183,6 @@ header ul > li {
 }
 
 /* contact styling */
-.contact-menu {
-  display: flex;
-  gap: 20px;
-  justify-content: space-around;
-}
-
-.contact-menu > div {
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  padding: 0;
-}
-
-@media (max-width: 400px) {
-  .contact-menu {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .contact-menu > div {
-    align-items: flex-start;
-  }
-}
-
-.contact-menu > div > span {
-  border-bottom: 4px solid var(--rhythm);
-  padding: 0;
-}
-
-.contact-menu a:hover {
-  background-color: rgba(255, 255, 255, 0.4);
-}
 
 .contact-menu-list {
   list-style: none;
